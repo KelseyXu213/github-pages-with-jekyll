@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+### Objectives:
+
+- week1
+- week2
+- week3
